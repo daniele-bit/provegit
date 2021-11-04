@@ -349,4 +349,4 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-C:\Users\Fastelli Daniele\Documents\GitHub\provegit\gitprova\gitprova\Client\Pages\Counter.razor
+*.json
